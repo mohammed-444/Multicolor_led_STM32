@@ -1,6 +1,5 @@
 .settings/
 CMSIS/
-Debug/
 startup/
 *.ld
 .project
